@@ -45,9 +45,11 @@
 
 #### ⚙️ Backend Expertise
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgresql" />
-<img src="https://img.shields.io/badge/DRF-Django%20Rest%20Framework-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,postgresql" />
+
+<img src="https://cdn.simpleicons.org/djangorestframework/ff1709" height="40" alt="drf"/>
+<img src="https://cdn.simpleicons.org/postman/ff6c37" height="40" alt="postman"/>
+<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 #### 🎨 Frontend
