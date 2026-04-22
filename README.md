@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python-Django-React**
 
-- 👨‍💻 All of my projects are available at [https://anandakrishnann.github.io/Potfolio/](https://anandakrishnann.github.io/Potfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://anandhakrishnanps.vercel.app/)
 
 - 💬 Ask me about **Django , React**
 
