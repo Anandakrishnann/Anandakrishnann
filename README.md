@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anandakrishnann</h1>
+<h1 align="center">Hi 👋, I'm Ananda Krishnann PS</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
