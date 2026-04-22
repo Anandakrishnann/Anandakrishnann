@@ -11,7 +11,6 @@
 - 🧠 Love solving **DSA & backend challenges**
 - ⚡ Fun fact: I debug faster than I panic 😄
 
----
 
 ### 🌐 Portfolio
 🔗 **Check out my work:**  
