@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="380" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
----
 
 ### 👨‍💻 About Me
 - 💡 Passionate about building **real-world scalable apps**
