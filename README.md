@@ -38,14 +38,16 @@
 
 ### 🛠️ Tech Stack
 
-#### 🚀 Languages
+#### 🚀 Core Stack
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,django,react,mongodb" />
 </p>
 
-#### ⚙️ Backend & Database
+#### ⚙️ Backend Expertise
 <p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgresql" />
+<img src="https://img.shields.io/badge/DRF-Django%20Rest%20Framework-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" />
 </p>
 
 #### 🎨 Frontend
@@ -53,11 +55,10 @@
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
-#### 🧰 Tools
+#### 🧰 Tools & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats
